@@ -1,8 +1,6 @@
-Hi, I'm a **Backend Developer**
+I'm a **Backend Developer**
 
 <br/>
-
-## 🛠 Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -31,7 +29,5 @@ Hi, I'm a **Backend Developer**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 <br/>
-
-## 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
