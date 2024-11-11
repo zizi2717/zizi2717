@@ -1,4 +1,4 @@
-I'm a **Backend Developer**
+**Backend Developer**
 
 <br/>
 
